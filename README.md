@@ -2,13 +2,13 @@
 This project was completed in 2021.
 Soil and Water Assessment Tool (SWAT) Project
 
-Overview
+# Overview
 
 The Soil and Water Assessment Tool (SWAT) is a robust, process-based hydrological model designed to simulate the impacts of land management, water usage, and climate change on soil and water resources at the watershed scale. SWAT is widely used for long-term simulations to predict streamflow, sediment yield, nutrient transport, and pollution under various land-use and climatic scenarios.
 
 This project employs SWAT to analyze the effects of different cropping patterns on water resources in a specific watershed. The results offer valuable insights for sustainable watershed management and agricultural planning.
 
-Data Requirements
+# Data Requirements
 
 The SWAT model requires the following datasets for configuration and simulation:
 
@@ -40,7 +40,7 @@ Streamflow measurements for calibration and validation.
 
 Water quality data, including sediment, nitrogen, and phosphorus levels.
 
-Project Highlights
+# Project Highlights
 
 In this project, we incorporated multiple cropping patterns into the SWAT model to evaluate their impacts on runoff and infiltration. The analysis included:
 
@@ -50,13 +50,11 @@ Integration of planting and harvesting schedules, along with management practice
 
 Assessment of the impact of agricultural activities on hydrological dynamics.
 
-Key Outcomes
+# Key Outcomes
 
 The study demonstrated that variations in crop types and management practices significantly affect water availability. These findings emphasize the utility of SWAT in evaluating sustainable agricultural and water management strategies.
 
-
-
-How to Use
+# How to Use
 
 Ensure all required datasets are prepared and formatted according to SWAT specifications.
 
@@ -72,7 +70,7 @@ Access the Model
 
 The complete SWAT model files can be accessed here.
 
-References
+# References
 
 Arnold, J. G., et al. (1998). "Large Area Hydrologic Modeling and Assessment Part I: Model Development." Journal of the American Water Resources Association.
 
